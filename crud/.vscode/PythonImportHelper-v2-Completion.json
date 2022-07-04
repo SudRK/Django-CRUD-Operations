@@ -1,0 +1,660 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "enroll",
+        "description": "enroll",
+        "isExtraImport": true,
+        "detail": "enroll",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "enroll.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "enroll.models",
+        "description": "enroll.models",
+        "detail": "enroll.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Widget",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "importPath": "unicodedata",
+        "description": "unicodedata",
+        "isExtraImport": true,
+        "detail": "unicodedata",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "importPath": "unicodedata",
+        "description": "unicodedata",
+        "isExtraImport": true,
+        "detail": "unicodedata",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "email",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "email",
+        "description": "email",
+        "detail": "email",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "importPath": "email",
+        "description": "email",
+        "isExtraImport": true,
+        "detail": "email",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "isExtraImport": true,
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "crud.asgi",
+        "description": "crud.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "crud.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-p63=ldq7#ywfm#g-y57=*u9)@@+-)b_d*qii-1nck(!9av#4ag'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-p63=ldq7#ywfm#g-y57=*u9)@@+-)b_d*qii-1nck(!9av#4ag'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'bootstrap5',",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'bootstrap5',\n    'enroll',\n]",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'crud.urls'",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "ROOT_URLCONF = 'crud.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'crud.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Base url to serve media files",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Base url to serve media files\nMEDIA_URL = '/media/'",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Base url to serve media files\nMEDIA_URL = '/media/'\n# Path where media is stored",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Base url to serve media files\nMEDIA_URL = '/media/'\n# Path where media is stored\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media/')\ntry:\n    from enroll.local_setting import *",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Base url to serve media files\nMEDIA_URL = '/media/'\n# Path where media is stored\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media/')\ntry:\n    from enroll.local_setting import *\nexcept ImportError:\n    pass",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\n# Path where media is stored\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media/')\ntry:\n    from enroll.local_setting import *\nexcept ImportError:\n    pass",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "crud.settings",
+        "description": "crud.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')\ntry:\n    from enroll.local_setting import *\nexcept ImportError:\n    pass",
+        "detail": "crud.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "crud.urls",
+        "description": "crud.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', views.add_show, name=\"addnshow\"),\n    path('delete/<int:id>/', views.delt, name=\"deletedata\"),\n    path('<int:id>/', views.update, name=\"updatedata\"),\n    path('search/', views.filter, name=\"filter\"),\n] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "crud.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "crud.wsgi",
+        "description": "crud.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "crud.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "enroll.migrations.0001_initial",
+        "description": "enroll.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=72)),",
+        "detail": "enroll.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "enroll.migrations.0002_customer_delete_user",
+        "description": "enroll.migrations.0002_customer_delete_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('enroll', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='customer',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=72)),",
+        "detail": "enroll.migrations.0002_customer_delete_user",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "enroll.migrations.0003_customer_image",
+        "description": "enroll.migrations.0003_customer_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('enroll', '0002_customer_delete_user'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='customer',\n            name='image',\n            field=models.ImageField(blank=True, height_field='10px', upload_to='image/', width_field='10px'),\n        ),",
+        "detail": "enroll.migrations.0003_customer_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "enroll.migrations.0004_alter_customer_image",
+        "description": "enroll.migrations.0004_alter_customer_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('enroll', '0003_customer_image'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='customer',\n            name='image',\n            field=models.ImageField(blank=True, default='default.jpg', null=True, upload_to='image/'),\n        ),",
+        "detail": "enroll.migrations.0004_alter_customer_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "enroll.migrations.0005_alter_customer_image",
+        "description": "enroll.migrations.0005_alter_customer_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('enroll', '0004_alter_customer_image'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='customer',\n            name='image',\n            field=models.ImageField(blank=True, default='image/default.jpg', null=True, upload_to='image/'),\n        ),",
+        "detail": "enroll.migrations.0005_alter_customer_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "enroll.migrations.0006_alter_customer_image",
+        "description": "enroll.migrations.0006_alter_customer_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('enroll', '0005_alter_customer_image'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='customer',\n            name='image',\n            field=models.ImageField(blank=True, default='image/default.jpg', null=True, upload_to=enroll.models.customer.get_avatar_path),\n        ),",
+        "detail": "enroll.migrations.0006_alter_customer_image",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerAdmin",
+        "kind": 6,
+        "importPath": "enroll.admin",
+        "description": "enroll.admin",
+        "peekOfCode": "class CustomerAdmin(admin.ModelAdmin):\n    list_display = ('id', 'name', 'email', 'password')",
+        "detail": "enroll.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EnrollConfig",
+        "kind": 6,
+        "importPath": "enroll.apps",
+        "description": "enroll.apps",
+        "peekOfCode": "class EnrollConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'enroll'",
+        "detail": "enroll.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerRegisteration",
+        "kind": 6,
+        "importPath": "enroll.forms",
+        "description": "enroll.forms",
+        "peekOfCode": "class CustomerRegisteration(forms.ModelForm):\n    password = forms.CharField(max_length=72, widget=forms.PasswordInput\n                               (render_value=True))  # custom widget is set for password field.\n    class Meta:\n        model = customer\n        fields = ['name', 'email', 'password','image']\n        Widget = {\n            'name': forms.TextInput(attrs={'class': 'form-control'}),\n            'email': forms.EmailInput(attrs={'class': 'form-control'}),\n            'password': forms.PasswordInput(render_value=True, attrs={'class': 'form-control'}),",
+        "detail": "enroll.forms",
+        "documentation": {}
+    },
+    {
+        "label": "customer",
+        "kind": 6,
+        "importPath": "enroll.models",
+        "description": "enroll.models",
+        "peekOfCode": "class customer(models.Model):\n    def get_avatar_path(self, filename):\n        ext = filename.split('.')[-1]\n        filename = \"%s.%s\" % (uuid.uuid4(), ext)\n        return 'image/' + filename\n    name = models.CharField(max_length=72)\n    email = models.EmailField(max_length=72)\n    password = models.CharField(max_length=72)\n    image = models.ImageField(upload_to=get_avatar_path, null=True, blank=True, default=\"image/default.jpg\")",
+        "detail": "enroll.models",
+        "documentation": {}
+    },
+    {
+        "label": "add_show",
+        "kind": 2,
+        "importPath": "enroll.views",
+        "description": "enroll.views",
+        "peekOfCode": "def add_show(request, id=\"None\"):\n    if request.method == \"POST\":\n        fm = CustomerRegisteration(request.POST, request.FILES)\n        if fm.is_valid():\n            # nm = fm.cleaned_data[\"name\"]\n            # em = fm.cleaned_data[\"email\"]\n            # pwd = fm.cleaned_data[\"password\"]\n            # img = fm.cleaned_data[\"image\"]\n            # reg = customer(name=nm, email=em, password=pwd, image=img)\n            # reg.set_password(pwd)",
+        "detail": "enroll.views",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "enroll.views",
+        "description": "enroll.views",
+        "peekOfCode": "def update(request, id):\n    pid = customer.objects.get(pk=id)\n    fm = CustomerRegisteration(request.POST, request.FILES)\n    if request.method == \"POST\":\n        if fm.is_valid():\n            if request.FILES:\n                pid.image = request.FILES['image']\n            fm = CustomerRegisteration(request.POST, instance=pid)\n            fm.save()\n            fm = CustomerRegisteration()",
+        "detail": "enroll.views",
+        "documentation": {}
+    },
+    {
+        "label": "delt",
+        "kind": 2,
+        "importPath": "enroll.views",
+        "description": "enroll.views",
+        "peekOfCode": "def delt(request, id):\n    if request.method == \"POST\":\n        pid = customer.objects.get(pk=id)\n        pid.delete()\n        return HttpResponseRedirect(\"/\")\ndef filter(request):\n    if request.method == \"POST\":\n        name = request.POST.get(\"search\")\n        fil = customer.objects.filter(name__contains=name).all()\n        fm = CustomerRegisteration()",
+        "detail": "enroll.views",
+        "documentation": {}
+    },
+    {
+        "label": "filter",
+        "kind": 2,
+        "importPath": "enroll.views",
+        "description": "enroll.views",
+        "peekOfCode": "def filter(request):\n    if request.method == \"POST\":\n        name = request.POST.get(\"search\")\n        fil = customer.objects.filter(name__contains=name).all()\n        fm = CustomerRegisteration()\n        return render(\n            request, \"enroll/addnshow.html\", {\"form\": fm, \"cus\": fil, \"name\": name}\n        )",
+        "detail": "enroll.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'crud.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

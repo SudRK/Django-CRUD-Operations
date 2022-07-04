@@ -1,0 +1,58 @@
+{% extends 'enroll/base.html' %}
+{% load bootstrap5 %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12 col-md-6 col-lg-4">
+        <h4 class="text-center alert alert-info">Add and Show Details</h4>
+        <form action="" method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            {% bootstrap_form form %}
+            <input type="submit" class="btn btn-secondary" value="Add Details">
+        </form>
+    </div>
+    <div class="col-12 col-md-6 col-lg-7 offset-lg-1">
+        <div style="overflow: scroll;">
+            {% if cus %}
+            <table class="table table-hover table-light">
+                <thead>
+                    <tr>
+                        <th class="scope">Sr. No.</th>
+                        <th class="scope">Name</th>
+                        <th class="scope">Email</th>
+                        <th class="scope">Profile Image</th>
+                        <th class="scope" colspan="2" style="text-align: center;">Actions</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for cs in cus %}
+                    <tr>
+                        <th scope="row">{{ forloop.counter }}</th>
+                        <td>{{cs.name}}</td>
+                        <td>{{cs.email}}</td>
+                        {% comment %} <td>{{cs.password}}</td> {% endcomment %}
+                        <td>
+                            <img src="/media/{{cs.image}}" alt="Default Image" name="image" width="50" height="50">
+                        </td>
+                        <td>
+                            <a href="{% url 'updatedata' cs.id %}" class="btn btn-outline-info sm">Edit</a>
+                        </td>
+                        <td>
+                            <form action="{% url 'deletedata' cs.id %}" method="post" class="d-inline">
+                                {% csrf_token %}
+                                <input type="submit" class="btn btn-outline-danger" value="Delete" class="deletebutton">
+                            </form>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            {% else %}
+            <h5 class="text-center alert alert-warning">No Records Found</h5>
+            {% endif %}
+        </div>
+    </div>
+
+</div>
+{% endblock content %}
